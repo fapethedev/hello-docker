@@ -10,9 +10,6 @@ public class JavaDockerStarterApplication implements CommandLineRunner {
 	public static void main(String[] args)
 	{
 		SpringApplication.run(JavaDockerStarterApplication.class, args);
-
-
-
 	}
 
 	@Override
